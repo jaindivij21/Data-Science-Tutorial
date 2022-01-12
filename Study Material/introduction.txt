@@ -1,0 +1,45 @@
+Machine Learning 
+Supervised, unsupervised and reinforced learning etc.
+
+Supervised: Learns from the LABELLED data, generalize the prdictions on future data. Avoid "OVERFITTING" :: TRAINING
+    Labelled data (Input-Output Pairs)
+    For an input data, we label it, it can be continuous or discrete!   While training both these things are used! 
+
+    After Training, the recieved output can use regressional algorothms or classification algorithms!
+    First being for continuous output, the latter being for discrete output!
+
+    1) Regressional algorithms
+            f(x) -> y where x E R^n and y E R
+    2) classification algorithms
+            F(x) -> Y where x E R^n and y E {1,2, ... K classes}
+
+    Training data -> ALGORITHM -> Hypothesis (which converts unseen data into prediction)
+        These algos can be the following:
+            Linear and Logistic Regression
+            SVM
+            Neural Networks
+        
+        Hypothesis is nothing but a function havign some parameters which will map a given input to an output (learned result).
+        In regressional algos the goal is to minimize the loss while in the classification algos the goal is to minimize the misclassifications!
+
+    OVERFITTING:
+        Overfitting is a modeling error in statistics that occurs when a function is too closely aligned to a limited set of data points. 
+        As a result, the model is useful in reference only to its initial data set, and not to any other data sets. Search internet!
+
+    Example: Spam Detection, Document classification, NLP, Image Classification, Sequence Processing, Predictive Analysis etc.
+
+UnSupervised Learning: No supervision i.e. we dont get any tabled data. The algo need to find patterns on its own like,
+    CLUSTERING DATA (Grouping similar data points)
+
+    The data isn't labelled, i.e. there is no Y side just the X.
+
+SemiSupervised Learning: 
+    The data recieved is not labelled, but we can label some (very less) data, which can help better classify the data. Eg. Object Segmentation.
+
+Reinforced Learning
+    Very similar to how humans learn. Some hit and Trial involved.  
+        * Agent: Which interacts with the environment.
+        * Environment: The scenario in which agent works.
+        * Goal: A combination of agent and environment makes up a state. There can be a start state and then a final state which can be our goal.
+        * Action: To move from one state to another we need to perform ACTION.
+    
