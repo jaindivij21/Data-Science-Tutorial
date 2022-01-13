@@ -1,0 +1,21 @@
+Name,Internal codename,Version number(s),Initial stablerelease date,Supported(security fixes),API level
+Android 1.0,N/A,1.0,September 23 2008,No,1
+Android 1.1,Petit Four,1.1,February 9 2009,No,2
+Android Cupcake,Cupcake,1.5,April 27 2009,No,3
+Android Donut,Donut,1.6,September 15 2009,No,4
+Android Eclair,Eclair,2.0,October 27 2009,No,5
+Android Froyo,Froyo,2.2 - 2.2.3,May 20 2010,No,8
+Android Gingerbread,Gingerbread,2.3 - 2.3.2,December 6 2010,No,9
+Android Honeycomb,Honeycomb,3.0,February 22 2011,No,11
+Android Ice Cream Sandwich,Ice Cream Sandwich,4.0 - 4.0.2,October 18 2011,No,14
+Android Jelly Bean,Jelly Bean,4.1 - 4.1.2,July 9 2012,No,16
+Android KitKat,Key Lime Pie,4.4 - 4.4.4,October 31 2013,No,19
+Android Lollipop,Lemon Meringue Pie,5.0 - 5.0.2,November 4 2014,No,21
+Android Marshmallow,Macadamia Nut Cookie,6.0 - 6.0.1,October 2 2015,No,23
+Android Nougat,New York Cheesecake,7.0,August 22 2016,No,24
+Android Oreo,Oatmeal Cookie,8.0,August 21 2017,No,26
+Android Pie,Pistachio Ice Cream,9,August 6 2018,Yes,28
+Android 10,Quince Tart,10,September 3 2019,Yes,29
+Android 11,Red Velvet Cake,11,September 8 2020,Yes,30
+Android 12,Snow Cone,12,October 4 2021,Yes,31
+Android 12L,Snow Cone v2,TBA,Q1 2022,Presupported,32
