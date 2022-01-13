@@ -34,6 +34,8 @@ UnSupervised Learning: No supervision i.e. we dont get any tabled data. The algo
 
     The data isn't labelled, i.e. there is no Y side just the X.
 
+    Example: Object Segmentation, User Segmentationm, Similarity Detection, Automatic Labelling
+
 SemiSupervised Learning: 
     The data recieved is not labelled, but we can label some (very less) data, which can help better classify the data. Eg. Object Segmentation.
 
@@ -43,6 +45,13 @@ Reinforced Learning
         * Environment: The scenario in which agent works.
         * Goal: A combination of agent and environment makes up a state. There can be a start state and then a final state which can be our goal.
         * Action: To move from one state to another we need to perform ACTION.
+
+Machine Learning Pipeline:
+1) Data Generation
+2) Data Cleaning 
+3) Algos to find interesting patterns 
+4) Deployment
+
 
 DATA SCIENCE
 
