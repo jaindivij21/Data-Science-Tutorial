@@ -1,0 +1,26 @@
+Distribution
+
+1) Uniform Distribution
+    In probability theory and statistics, the continuous uniform distribution or rectangular distribution is a family of symmetric probability distributions. 
+    The distribution describes an experiment where there is an arbitrary outcome that lies between certain bounds.
+
+2) Normal Distribution
+    Bell shaped distribution, Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean,
+    showing that data near the mean are more frequent in occurrence than data far from the mean. It is parameterized by Nue (Mean/Average) and Sigma (Standard Deviation).
+        The probability near the mean is high when compared to probability near the edges or far away from the mean.
+    
+    Univariate Normal Distribution
+    Here sigma or Standard Deviation basically is the amount of spread from the mean, Thus the formula for each value can be:
+        x' = nue + sigma(x)
+    
+    Multivariate Normal Distribution
+    A multivariate normal distribution is a vector in multiple normally distributed variables, such that any linear combination of the 
+    variables is also normally distributed. It is mostly useful in extending the central limit theorem to multiple variables, but also has 
+    applications to bayesian inference and thus machine learning, where the multivariate normal distribution is used to approximate the features
+    of some characteristics; for instance, in detecting faces in pictures.
+
+    Mean = Nue => [u1, u2, u3 ...]
+    Deviation = Sigma => [s1, s2, s3 ...]
+    Covariance - Check the term online. Depicted by summation sign.
+
+    
